@@ -1,2 +1,2 @@
-# myrepo101
-#markdown file 101
+# basics
+#numpy, pandas basics, plots
